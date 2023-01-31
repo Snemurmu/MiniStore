@@ -5,8 +5,8 @@
 #The indoor store name is Ministore.
 
 
-A  small desktop application has been developed to keep track
-of all of the sales perfectly.
+<p>A  small desktop application has been developed to keep track
+of all of the sales perfectly.</p>
 
 There is 2 parts on the application developement.
 
