@@ -10,8 +10,8 @@ of all of the sales perfectly.</p>
 
 There is 2 parts on the application developement.
 
-Admin
-Sales 
+<p>Admin</p>
+<p>Sales </p>
 
 Admin, to SELECT, INSERT, UPDATE and DELETE any of
 the products and their amount listed in the table. This class should use GridView to show all the
