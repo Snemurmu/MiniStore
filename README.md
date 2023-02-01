@@ -14,7 +14,7 @@ There is 2 parts on the application developement.
 <p>Sales </p>
 
 Admin, to SELECT, INSERT, UPDATE and DELETE any of
-the products and their amount listed in the table. This class should use GridView to show all the
+the products and their amount listed in the table. This class uses GridView to show all the
 records in the database and will help the coordinator to know the inventory as well as update
 when requires.
 
