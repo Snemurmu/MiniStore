@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "v3PMF4t3MRR5yw60SBOGaNF0Txsg5dy9OKWZAseTxwM=",
+  "Source": "RestAPITesting",
+  "BasePath": "_content/RestAPITesting",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
